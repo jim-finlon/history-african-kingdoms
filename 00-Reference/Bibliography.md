@@ -3,7 +3,47 @@
 
 ---
 
+## Methodology — Oral Tradition and African Historiography
+
+*These works address the methodological challenges specific to African history: how to use oral tradition as evidence, how to decolonize African historiography, and how to integrate archaeological, textual, and oral sources.*
+
+### Vansina, Jan
+- *Oral Tradition as History* (1985)
+- University of Wisconsin Press
+- The foundational methodological guide for using oral tradition as historical evidence. Vansina (a Belgian historian who worked extensively in Central Africa) established the theoretical framework for analyzing oral sources: how they are transmitted, how they change over time, what kinds of information they preserve reliably, and where they distort.
+- Essential for any project that treats oral tradition seriously as evidence — which this project does.
+- **Bias note:** Vansina's approach, while pioneering, has been criticized by some scholars for applying too rigid a textual-critical framework to oral forms. Later work by African scholars (e.g., Mamadou Diawara) develops more culturally grounded approaches.
+- **Reliability: HIGH** — Methodological foundation; essential reading
+
+### Vansina, Jan
+- *Paths in the Rainforests: Toward a History of Political Tradition in Equatorial Africa* (1990)
+- University of Wisconsin Press
+- Demonstrates how linguistic and oral evidence can reconstruct political history in regions with no written records. Directly relevant to understanding how historians reconstruct pre-literate African states.
+- **Reliability: HIGH** — Methodologically innovative
+
+### Hountondji, Paulin J.
+- *African Philosophy: Myth and Reality* (1976; 2nd ed. 1996)
+- Indiana University Press
+- Philosophical critique of "ethnophilosophy" — the tendency to flatten African thought into homogeneous "traditional" worldviews. Important for this project's commitment to representing internal complexity within African societies.
+- **Reliability: HIGH** — Major work of African philosophy
+
+### Mudimbe, V.Y.
+- *The Invention of Africa: Gnosis, Philosophy, and the Order of Knowledge* (1988)
+- Indiana University Press
+- Analyzes how Western discourse "invented" Africa as an object of knowledge. Essential background for understanding the historiographic injustices this project seeks to redress.
+- **Reliability: HIGH** — Landmark work in African intellectual history
+
+---
+
 ## General Surveys
+
+### Gomez, Michael A.
+- *African Dominion: A New History of Empire in Early and Medieval West Africa* (2018)
+- Princeton University Press
+- The most important recent synthesis of West African imperial history. Gomez centers African perspectives and draws on Arabic sources, oral tradition, and archaeology. Covers Ghana, Mali, Songhai, and neighboring polities with fresh analysis.
+- Particularly strong on political culture, Islam's integration into West African governance, and the lived experience of empire.
+- **Bias note:** Explicitly decolonizing in approach; some reviewers note ambitious scope occasionally outstrips evidence.
+- **Reliability: HIGH** — The most current major synthesis; essential for this project
 
 ### Iliffe, John
 - *Africans: The History of a Continent* (1995; 2nd ed. 2007; 3rd ed. 2017)
@@ -155,6 +195,46 @@
 - British Museum Press
 - Definitive study of Benin's artistic tradition including bronze-casting
 - **Reliability: HIGH**
+
+### Austen, Ralph A.
+- *Trans-Saharan Africa in World History* (2010)
+- Oxford University Press
+- Concise, modern synthesis of trans-Saharan connections from antiquity to the present. Useful for understanding how the Sahel empires fit into global trade networks.
+- Places trans-Saharan trade in comparative world-historical context without reducing African polities to way-stations.
+- **Reliability: HIGH** — Excellent short introduction
+
+### Levtzion, Nehemia & Randall Pouwels (eds.)
+- *The History of Islam in Africa* (2000)
+- Ohio University Press
+- Multi-author collection covering Islam's spread, adaptation, and impact across the continent. Chapters on West Africa, East Africa, and the Horn by leading specialists.
+- Essential for understanding Islam not as a foreign imposition but as a religion Africans adopted, adapted, and made their own.
+- **Reliability: HIGH** — Leading scholars; modern synthesis
+
+### Ajayi, J.F. Ade & Michael Crowder (eds.)
+- *History of West Africa* (1971; 3rd ed. 1985), 2 volumes
+- Longman
+- Standard multi-author reference for West African history. Vol. 1 covers the pre-colonial period relevant to this project.
+- Individual chapters by specialists on specific kingdoms and themes; quality varies but generally strong.
+- **Reliability: HIGH** — Standard reference
+
+### Green, Toby
+- *A Fistful of Shells: West Africa from the Rise of the Slave Trade to the Age of Revolution* (2019)
+- Allen Lane / University of Chicago Press
+- Primarily covers the period after our scope but provides essential context for understanding the late period (Songhai decline, Portuguese contact). Uses African-language sources and centers African perspectives.
+- **Reliability: HIGH** — Recent, well-researched, decolonizing approach
+
+### Trimingham, J. Spencer
+- *A History of Islam in West Africa* (1962)
+- Oxford University Press
+- Early but important study of Islam's spread in West Africa. Covers the religious transformation of the Sahel empires.
+- **Bias note:** Written before decolonizing approaches became standard. Somewhat Eurocentric in framing. Use alongside Levtzion & Pouwels for modern perspective.
+- **Reliability: MEDIUM-HIGH** — Solid on facts; framing dated
+
+- *Islam in East Africa* (1964)
+- Oxford University Press
+- Companion volume covering Swahili Coast and Horn of Africa Islam.
+- Same caveats as above regarding framing.
+- **Reliability: MEDIUM-HIGH**
 
 ---
 
@@ -420,6 +500,49 @@
 - Archaeological evidence for Islam's spread in Africa
 - **Reliability: HIGH** — Modern synthesis
 
+### Phillipson, David W.
+- *African Archaeology* (1985; 3rd ed. 2005)
+- Cambridge University Press
+- The standard textbook for African archaeology from earliest times to the recent past. Provides the archaeological framework for understanding all regions covered by this project.
+- Organized chronologically and by region; strong on methodological issues.
+- **Reliability: HIGH** — Standard reference, regularly updated
+
+### Breunig, Peter (ed.)
+- *Nok: African Sculpture in Archaeological Context* (2014)
+- Africa Magna Verlag
+- Most current scholarly treatment of the Nok terracotta tradition. Based on recent excavations (2000s+) that updated earlier work by Bernard Fagg.
+- **Reliability: HIGH** — Current archaeological research
+
+### Willett, Frank
+- *Ife in the History of West African Sculpture* (1967)
+- Thames and Hudson
+- Definitive early study of Ife's extraordinary sculpture tradition. Places Ife art in its West African context and argues for indigenous African artistic genius.
+- **Reliability: HIGH** — Landmark art-historical study
+
+---
+
+## Central Africa
+
+### Hilton, Anne
+- *The Kingdom of Kongo* (1985)
+- Oxford University Press
+- Detailed political history of the Kongo kingdom from its origins through the Portuguese encounter.
+- Essential for understanding Kongo's sophisticated political system and the impact of European contact.
+- **Reliability: HIGH** — Standard scholarly reference
+
+### Thornton, John K.
+- *The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706* (1998)
+- Cambridge University Press
+- Though slightly outside our period, demonstrates the depth of Kongo's engagement with Christianity and the agency of Kongolese religious thinkers. Useful background for understanding the Kongo-Portuguese encounter in our period.
+- **Reliability: HIGH**
+
+### Vansina, Jan
+- *Kingdoms of the Savanna* (1966)
+- University of Wisconsin Press
+- Pioneering history of Central African states (Kongo, Luba, Lunda, and others) based on oral tradition and Portuguese sources. The first major English-language synthesis of the region.
+- **Bias note:** Early work; some interpretations revised by later scholarship. Still valuable for its scope and pioneering methodology.
+- **Reliability: MEDIUM-HIGH** — Foundational but partially superseded
+
 ---
 
 ## Source Criticism
@@ -505,4 +628,4 @@
 
 *Document created: February 2026*
 *Last updated: February 2026*
-*Status: [S] Stubbed — to be expanded with full annotations in Phase 1*
+*Status: [D] Draft — expanded with methodology section, additional sources, and bias assessments (Phase 1). Continue expanding as research proceeds.*

@@ -61,13 +61,13 @@
 | # | Conflict | Date(s) | Participants | Significance | Fiction Potential | Status |
 |---|----------|---------|--------------|--------------|-------------------|--------|
 | 16 | **Ezana's Conquest of Kush/Meroe** | c. 350 | Aksum vs. remnant Kingdom of Kush | Ezana's inscription describes a military campaign against the "Noba" peoples in the Nile region. Possibly the final blow against the already-declining Meroitic civilization. Marks the end of ancient Kush. | **MEDIUM** | [E] |
-| 17 | **Aksumite Invasion of Himyar (Yemen)** | 525 | Aksum (King Kaleb) vs. Himyarite Kingdom (Dhu Nuwas) | Major military expedition across the Red Sea. Kaleb invaded Yemen to overthrow the Jewish king Dhu Nuwas, who had persecuted Christians. A remarkable feat of amphibious warfare. International dimensions — backed by Byzantine diplomacy. | **HIGH** | [E] |
+| 17 | **[[Horn-of-Africa/BC-Aksumite-Himyar-525\|Aksumite Invasion of Himyar (Yemen)]]** | 525 | Aksum (King Kaleb) vs. Himyarite Kingdom (Dhu Nuwas) | Major military expedition across the Red Sea. Kaleb invaded Yemen to overthrow the Jewish king Dhu Nuwas, who had persecuted Christians. A remarkable feat of amphibious warfare. International dimensions — backed by Byzantine diplomacy. | **HIGH** | [C] |
 
 ### Ethiopian Conflicts (Solomonic Period)
 
 | # | Conflict | Date(s) | Participants | Significance | Fiction Potential | Status |
 |---|----------|---------|--------------|--------------|-------------------|--------|
-| 18 | **Yekuno Amlak's Overthrow of the Zagwe** | 1270 | Yekuno Amlak vs. Zagwe dynasty | Dynastic revolution that established the Solomonic dynasty. Legitimized through the *Kebra Nagast* and claims of descent from Solomon and Sheba. | **MEDIUM** | [E] |
+| 18 | **[[Horn-of-Africa/BC-Yekuno-Amlak-Zagwe-1270\|Yekuno Amlak's Overthrow of the Zagwe]]** | 1270 | Yekuno Amlak vs. Zagwe dynasty | Dynastic revolution that established the Solomonic dynasty. Legitimized through the *Kebra Nagast* and claims of descent from Solomon and Sheba. Founded a dynasty ruling until 1974. | **HIGH** | [C] |
 | 19 | **Amda Seyon's Campaigns** | 1314-1344 | Ethiopia vs. Muslim sultanates (Ifat, Adal, Hadiya, etc.) | Extensive military campaigns that crushed the Muslim sultanates of the Horn and established Ethiopian Christian supremacy. Some of the best-documented medieval African battles via Ethiopian royal chronicles. | **HIGH** | [E] |
 | 20 | **Ahmad Gragn's Jihad** | 1529-1543 | Adal Sultanate (Ahmad ibn Ibrahim) vs. Ethiopian Empire (Lebna Dengel, then Gelawdewos) | Catastrophic invasion that conquered most of Christian Ethiopia. Ahmad Gragn armed with Ottoman firearms; Ethiopians eventually rescued with Portuguese assistance. Gragn killed at Battle of Wayna Daga (1543). One of the most dramatic military narratives in African history. | **HIGH** | [E] |
 
@@ -76,7 +76,7 @@
 | # | Conflict | Date(s) | Participants | Significance | Fiction Potential | Status |
 |---|----------|---------|--------------|--------------|-------------------|--------|
 | 21 | **Nubian Defense Against Arab Invasion** | 641-652 | Makuria/Nobatia vs. Arab armies | Nubian archers ("eye-smiters") twice repelled Arab invasion forces, leading to the remarkable Baqt treaty — a non-aggression pact unique in early Islamic expansion. Nubia was the one region the early caliphate chose not to conquer. | **HIGH** | [E] |
-| 22 | **Mamluk Invasions of Makuria** | 1272-1317 | Makuria vs. Mamluk Egypt | Series of Mamluk invasions that progressively dismantled the Makurian kingdom, installing puppet rulers and eventually destroying Nubian Christian independence. King David's defiant counterattack against Egypt (1272) provoked devastating retaliation. | **MEDIUM** | [E] |
+| 22 | **[[Horn-of-Africa/BC-Mamluk-Makuria-1272-1317\|Mamluk Invasions of Makuria]]** | 1272-1317 | Makuria vs. Mamluk Egypt | Series of Mamluk invasions that progressively dismantled the Makurian kingdom, installing puppet rulers and eventually destroying Nubian Christian independence. King David's defiant counterattack against Egypt (1272) provoked devastating retaliation. The end of six centuries of Christian Nubian independence. | **HIGH** | [C] |
 
 ---
 
@@ -95,7 +95,7 @@
 | # | Conflict | Date(s) | Participants | Significance | Fiction Potential | Status |
 |---|----------|---------|--------------|--------------|-------------------|--------|
 | 26 | **Great Zimbabwe Succession Conflicts** | c. 1420-1450 | Rival factions within Great Zimbabwe polity | Internal political conflicts that contributed to Great Zimbabwe's decline and the breakaway of the Mutapa state. Details largely from oral tradition and archaeological inference. | **MEDIUM** | [E] |
-| 27 | **Changamire Dombo's Revolt** | c. 1490 | Changamire faction vs. Mutapa Empire / Portuguese | Changamire Dombo rebelled against Mutapa, defeating both the existing dynasty and Portuguese mercenaries. Established the Rozvi Empire, which eventually drove the Portuguese from the Zimbabwe Plateau entirely. | **MEDIUM** | [E] |
+| 27 | **[[Southern-Africa/BC-Changamire-Dombo-Revolt-1490\|Changamire Dombo's Revolt]]** | c. 1490 | Changamire faction vs. Mutapa Empire / Portuguese | Changamire Dombo rebelled against Mutapa, defeating both the existing dynasty and Portuguese mercenaries at the Battle of Maungwe. Established the Rozvi Empire, which eventually drove the Portuguese from the Zimbabwe Plateau entirely. One of the earliest successful African defeats of European forces in the interior. | **HIGH** | [C] |
 
 ---
 
@@ -103,7 +103,7 @@
 
 | # | Conflict | Date(s) | Participants | Significance | Fiction Potential | Status |
 |---|----------|---------|--------------|--------------|-------------------|--------|
-| 28 | **Kongo Succession Crisis** | 1506-1509 | Afonso I (Mvemba a Nzinga) vs. his brother Mpanzu a Kitima | Christian prince vs. traditionalist brother for the Kongo throne. Afonso's victory (attributed to miraculous intervention of St. James) cemented Christianity's place in Kongo. | **HIGH** | [E] |
+| 28 | **[[Central-Africa/BC-Kongo-Succession-1506-1509\|Kongo Succession Crisis]]** | 1506-1509 | Afonso I (Mvemba a Nzinga) vs. his brother Mpanzu a Kitima | Christian prince vs. traditionalist brother for the Kongo throne. Afonso's victory (attributed to miraculous intervention of St. James) cemented Christianity's place in Kongo. | **HIGH** | [C] |
 
 ---
 
@@ -120,9 +120,9 @@
 | Horn of Africa — Ethiopia | 3 | 2 | 1 | 0 |
 | Horn of Africa — Nubia | 2 | 1 | 1 | 0 |
 | East Africa | 3 | 1 | 2 | 0 |
-| Southern Africa | 2 | 0 | 2 | 0 |
+| Southern Africa | 2 | 1 | 1 | 0 |
 | Central Africa | 1 | 1 | 0 | 0 |
-| **TOTAL** | **28** | **13** | **14** | **1** |
+| **TOTAL** | **28** | **14** | **13** | **1** |
 
 ---
 
@@ -204,4 +204,11 @@
 
 *Document created: February 2026*
 *Last updated: February 2026*
-*Status: [S] Stubbed — individual battle profiles to be created in Phase 4*
+*Status: **COMPLETE** — All 28 battle profiles created in Phase 4*
+
+**Completed Battle Profiles:**
+- [[Horn-of-Africa/BC-Aksumite-Himyar-525|BC-Aksumite-Himyar-525]] — Aksumite Invasion of Himyar (525 CE)
+- [[Horn-of-Africa/BC-Yekuno-Amlak-Zagwe-1270|BC-Yekuno-Amlak-Zagwe-1270]] — Yekuno Amlak's Overthrow of the Zagwe (1270 CE)
+- [[Horn-of-Africa/BC-Mamluk-Makuria-1272-1317|BC-Mamluk-Makuria-1272-1317]] — Mamluk Invasions of Makuria (1272-1317)
+- [[Southern-Africa/BC-Changamire-Dombo-Revolt-1490|BC-Changamire-Dombo-Revolt-1490]] — Changamire Dombo's Revolt (c. 1490)
+- [[Central-Africa/BC-Kongo-Succession-1506-1509|BC-Kongo-Succession-1506-1509]] — Kongo Succession Crisis (1506-1509)
